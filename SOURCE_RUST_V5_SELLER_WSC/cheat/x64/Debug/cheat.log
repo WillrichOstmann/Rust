@@ -1,0 +1,8 @@
+﻿  drivermain.cpp
+  mainIO.cpp
+  Microsoft (R) Incremental Linker Version 14.27.29112.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:C:\Users\User-PC\Desktop\New folder (4)\SOURCE_RUST_V5_SELLER_WSC (1)\x64\Debug\cheatWSC.exe" /INCREMENTAL:NO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:NO /manifest:embed /DEBUG:FASTLINK "/PDB:C:\Users\User-PC\Desktop\New folder (4)\SOURCE_RUST_V5_SELLER_WSC (1)\x64\Debug\cheatWSC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\Users\User-PC\Desktop\New folder (4)\SOURCE_RUST_V5_SELLER_WSC (1)\x64\Debug\cheatWSC.lib" /MACHINE:X64 x64\Debug\drivermain.obj 
+  x64\Debug\mainIO.obj 
+  cheat.vcxproj -> C:\Users\User-PC\Desktop\New folder (4)\SOURCE_RUST_V5_SELLER_WSC (1)\x64\Debug\cheatWSC.exe

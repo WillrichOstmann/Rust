@@ -1,0 +1,14 @@
+﻿  Building 'maindrivservice' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  berkeley.c
+  ksocket.c
+  Generating Code...
+  Compiling...
+  main.cpp
+C:\Users\User-PC\Desktop\New folder (4)\SOURCE_RUST_V5_SELLER_WSC (1)\driver\main.cpp(109,34): warning C4189: 'module': local variable is initialized but not referenced
+  packet_handler.cpp
+  server.cpp
+  Generating Code...
+  driver.vcxproj -> C:\Users\User-PC\Desktop\New folder (4)\SOURCE_RUST_V5_SELLER_WSC (1)\x64\Debug\maindrivservice.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\User-PC\Desktop\New folder (4)\SOURCE_RUST_V5_SELLER_WSC (1)\x64\Debug\maindrivservice.sys
+  

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="mainIO.cpp" />
+    <ClCompile Include="drivermain.cpp">
+      <Filter>socket_link_driver</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vars\vars.h" />
+    <ClInclude Include="resourcedriv.h">
+      <Filter>socket_link_driver</Filter>
+    </ClInclude>
+    <ClInclude Include="extras.h">
+      <Filter>socket_link_driver</Filter>
+    </ClInclude>
+    <ClInclude Include="DRIVERLINKER.h">
+      <Filter>socket_link_driver</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat_funcs\Aim.h">
+      <Filter>sdkfuncs</Filter>
+    </ClInclude>
+    <ClInclude Include="cheat_funcs\Other.h">
+      <Filter>sdkfuncs</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk_new\math.h">
+      <Filter>sdkfuncs</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>sdkfuncs</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk\sdkGameC.h">
+      <Filter>sdkfuncs</Filter>
+    </ClInclude>
+    <ClInclude Include="junkcode.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="sdkfuncs">
+      <UniqueIdentifier>{4467bd3c-f64f-4b4e-9161-b24dc407c8be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="socket_link_driver">
+      <UniqueIdentifier>{3e319b24-3b33-4455-bf78-6361e4a142f4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
